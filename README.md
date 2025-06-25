@@ -9,8 +9,8 @@
 ---
 
 ### 💡 About Me
-- 🔭 I’m studying **Computer Engineering** at Universidade do Minho, Portugal 🇵🇹
-- 🤖 Interested in **Software Development**, **AI**, and creative tech solutions in general
+- 🔭 I’m studying **Computer Engineering** at **Universidade do Minho**, Portugal 🇵🇹
+- 🤖 Interested in *Software Development*, *AI*, and creative tech solutions in general
 - 🚀 Leading innovation at **EPIC Júnior**
 
 ---
@@ -37,17 +37,4 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=goncalo122016&theme=radical" />
-</p>
-
-🇵---
-
-### 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=goncalo122016&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncalo122016&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=goncalo122016&theme=tokyonight" height="165" />
 </p>
