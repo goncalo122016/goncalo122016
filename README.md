@@ -1,16 +1,16 @@
-<h1 align="center">✨ Gonçalo Castro ✨</h1>
+<h1 align="center">Hi 👋, I'm Gonçalo Castro (@goncalo122016)</h1>
+<h3 align="center">Innovation Director @ EPIC Júnior | Portuguese Software Developer</h3>
 
 <p align="center">
-  📍 Based in Portugal | 🎓 Universidade do Minho<br>
-  💼 Innovation Director @ EPIC Júnior<br>
-  💻 Building cool things in C, Java, React, and more!
+  <a href="mailto:goncalo122016@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/gonçalocastro">💼 LinkedIn</a>
 </p>
 
 ---
 
 ### 💡 About Me
-- 🔭 I’m studying **Computer Engineering**  
-- 🤖 Interested in **Software Development**, **AI**, and creative tech solutions  
+- 🔭 I’m studying **Computer Engineering** at Universidade do Minho, Portugal 🇵🇹
+- 🤖 Interested in **Software Development**, **AI**, and creative tech solutions in general
 - 🚀 Leading innovation at **EPIC Júnior**
 
 ---
@@ -28,13 +28,6 @@
 
 ---
 
-### 📬 Let's Connect
-
-- 📧 Email: goncalo122016@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/gonçalocastro)
-
----
-
 ### 📈 Stats
 
 <p align="center">
@@ -44,4 +37,17 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=goncalo122016&theme=radical" />
+</p>
+
+🇵---
+
+### 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=goncalo122016&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncalo122016&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=goncalo122016&theme=tokyonight" height="165" />
 </p>
